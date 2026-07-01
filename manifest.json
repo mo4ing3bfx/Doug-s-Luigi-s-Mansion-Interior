@@ -1,1 +1,1 @@
-{"name":"Dougs_LM_Interior","version_number":"0.2.1","description":"Adds Luigi's Mansion as an interior","website_url":"","dependencies":["BepInEx-BepInExPack-5.4.2100","TeamXiaolan-DawnLib-0.9.2"]}
+{"name":"Dougs_LM_Interior","version_number":"0.2.2","description":"Adds Luigi's Mansion as an interior","website_url":"https://github.com/mo4ing3bfx/Doug-s-Luigi-s-Mansion-Interior","dependencies":["BepInEx-BepInExPack-5.4.2100","TeamXiaolan-DawnLib-0.9.2"]}
