@@ -11,6 +11,9 @@ as it adds plenty of custom LM themed scrap items! Plus, it just looks really co
 You can configure the interior's weights to spawn on any moon in the config file, but by default it follows the same spawn weights as the "Manor" interior.
 It's also set up to always spawn for PanMan's moon, but if you'd prefer other interiors for that moon to spawn with it you can change that in the config as well.
 
+*Note: If you use PanMan's moon, I've noticed issues with being able to load in on the 1.7.8 update of Lethal Level Loader. If
+you want to use that moon, it still works on 1.7.7*
+
 Some (ambitious) additions planned for the future:
 
 > Enemies & Hazards
