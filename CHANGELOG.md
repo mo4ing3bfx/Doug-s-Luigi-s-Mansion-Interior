@@ -14,3 +14,6 @@
 > Added 5 hallway variants for better maze generation
 > Adjusted navmesh to prevent monsters clipping through objects
 > Bandaid fix for locked doors not being openable with keys
+
+0.2.5
+> Fixed collisions for L-Shape, Loop, Long, and 4-Way halls
